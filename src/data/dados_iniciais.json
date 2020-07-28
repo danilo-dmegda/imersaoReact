@@ -45,15 +45,15 @@
       },
       "videos": [
         {
-          "titulo": "Imersão React - Torne-se um desenvolvedor FullStack",
+          "titulo": "Imersão React Live #01 - Analisando o front-end do Netflix, do Spotify e do Ifood",
           "url": "https://www.youtube.com/watch?v=Dcn-tVmSxyU"
         },
         {
-          "titulo": "#ImersaoReact Aula 1 - React Components e AluraFlix",
+          "titulo": "Imersão React Live #02 - TypeScript no nosso projeto React, com Lucas Santos da Microsoft",
           "url": "https://www.youtube.com/watch?v=SpWFDTvgS9k"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
+          "titulo": "Imersão React Live #03 - Análise dos desafios propostos em React e fechamento",
           "url": "https://www.youtube.com/watch?v=ol_2pmyPzvI"
         }      
       ]
