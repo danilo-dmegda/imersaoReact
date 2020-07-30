@@ -28,8 +28,7 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    console.log('chamou effect');
-    const URL = 'http://localhost:8080/categorias';
+    const URL = 'https://techflix-dmegda.herokuapp.com/categorias';
 
     fetch(URL).then(async (respostaDoServidor) => {
       const resposta = await respostaDoServidor.json();
