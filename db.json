@@ -1,0 +1,29 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "titulo": "Front End",
+        "cor": "#6BD1FF"
+      },
+      {
+        "id": 2,
+        "titulo": "Back End",
+        "cor": "#00C86F"
+      },
+      {
+        "id": 3,
+        "titulo": "Data Science e Inteligência Artificial",
+        "cor": "#9cd33b"
+      },
+      {
+        "id": 4,
+        "titulo": "Filmes",
+        "cor": "orange"
+      },
+      {
+        "id": 5,
+        "titulo": "Games",
+        "cor": "red"
+      }
+    ]
+  }
